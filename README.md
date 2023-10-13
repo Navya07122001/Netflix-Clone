@@ -1,1 +1,1 @@
-# Netfix-Clone
+# Netflix-Clone
